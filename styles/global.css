@@ -37,13 +37,8 @@ a {
 	background-repeat: no-repeat;
 }
 
-.container-top {
-	padding-left: 0px !important;
-	padding-right: 0px !important;
-}
-
 .section-top {
-	min-width: 90vw;
+	max-width: 90vw;
 	min-height: 100vh;
 	display: flex;
 	justify-content: center;
